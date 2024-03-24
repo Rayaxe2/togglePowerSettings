@@ -1,0 +1,1 @@
+A PowerShell script that switches the PC/Windows power settings between Power Saver (which can limit the CPU's clock speed but make it run cooler) and High Performance Mode (In this particular case, the AMD high performance preset - which can be changed)
